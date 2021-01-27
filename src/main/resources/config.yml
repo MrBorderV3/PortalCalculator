@@ -1,0 +1,8 @@
+illegalArguments: "&cIllegal arguments! Please try again with the correct arguments!"
+noPermission: "&cYou do not have permission to use this command!"
+notAPlayer: "&cOnly players may use this command!"
+
+PortalCommand:
+  NetherToNormal: "&6Your portal will be at &b@ X:%x% Z:%z% &6in the OverWorld from your current location"
+  NormalToNether: "&6Your portal will be at &b@ X:%x% Z:%z% &6in the Nether from your current location"
+  IllegalWorld: "&cYou cannot build a portal in this world!"

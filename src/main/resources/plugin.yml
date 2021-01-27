@@ -1,0 +1,5 @@
+name: PortalCalculator
+version: ${project.version}
+main: me.border.portalcalculator.PortalCalculator
+api-version: 1.16
+authors: [ MrBorder ]
